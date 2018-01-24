@@ -11,6 +11,8 @@
 
 #### 想要运行的话，需要opencv2的支持，本人在VS2010 + opencv2 的环境下是测试过的
 
+#### 运行结果示意也包含在其中了，RRT.jpg是运行的结果，intel_binary.jpg是英特尔大楼的一层slam建出来的图，是一个经典的benchmark
+
 #### 代码挺丑陋的，仅供参考，有部分注释
 
 #### 联系 Author：陈狗翔 zhixinc@buaa.edu.cn
